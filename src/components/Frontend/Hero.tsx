@@ -82,6 +82,8 @@ const Hero = () => {
                   <Image
                     src="https://cdn.tailgrids.com/1.0/assets/images/hero/hero-image-01.png"
                     alt="hero"
+                    width={500}
+                    height={500}
                     className="max-w-full lg:ml-auto"
                   />
                   <span className="absolute -bottom-8 -left-8 z-[-1]">
